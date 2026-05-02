@@ -1,0 +1,12 @@
+- Ter tipos: Deposito e Retirada
+
+- Routes so chama não faz nenhuma outra coisa
+
+- Services deve controlar o banco de dados e nenhuma operação (Inserção, edição, deletar) com excessão de query 
+deve ser feita diretamente nos arquivos de rota
+
+- Separar cada model
+
+- Não fazer sepração entre Usuario e Conta
+
+- Schemas de saida
